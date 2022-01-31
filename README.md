@@ -1,5 +1,5 @@
-<h3 align="center"> Hi 👋, I'm Sarb </h3>
-<h1 align="center"> I'm a Full Stack Developer , who loves to code! </h1>
+<h3> Hi 👋, I'm Sarb </h3>
+<h1> I'm a Full Stack Developer , who loves to code! </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarbsingh34&label=Profile%20views&color=0e75b6&style=flat" alt="sarbsingh34" /> </p>
 
