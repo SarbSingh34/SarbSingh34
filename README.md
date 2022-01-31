@@ -1,6 +1,7 @@
 <h2> Hi there,  I'm Sarb 👋 </h2>
 <h1> I'm a Full Stack Developer , who loves to code! </h1>
-<h2> ->  🔭 I’m currently learning React ,Javascript Nodejs and Firebase. 
+
+    ->  🔭 I’m currently learning React ,Javascript Nodejs and Firebase. 
 
     -> 🌱 I’m  looking to collbaoration with other passionate developers 
 
