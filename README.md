@@ -1,12 +1,12 @@
-<h3> Hi there,  I'm Sarb 👋 </h3>
-<h2> I'm a Full Stack Developer , who loves to code! </h2>
- - 🔭 I’m currently learning React ,Javascript Nodejs and Firebase.
+<h2> Hi there,  I'm Sarb 👋 </h2>
+<h1> I'm a Full Stack Developer , who loves to code! </h1>
+ - <h2>  🔭 I’m currently learning React ,Javascript Nodejs and Firebase. </h2>
 
-- 🌱 I’m  looking to collbaoration with other passionate developers  
+-  <h2> 🌱 I’m  looking to collbaoration with other passionate developers  </h2>
 
-- 📫 2022 Goals -  Master MERN Stack , Contribute to Immersive Tech 
+-  <h2>  📫 2022 Goals -  Master MERN Stack , Contribute to Immersive Tech </h2>
 
-- ⚡ Fun fact I love to try New things...
+-   <h2> ⚡ Fun fact I love to try New things... </h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
