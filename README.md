@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SarbSingh</h1>
+<h3 align="center">Hi 👋, I'm SarbSingh</h3>
 <h3 align="center">Exploring Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarbsingh34&label=Profile%20views&color=0e75b6&style=flat" alt="sarbsingh34" /> </p>
