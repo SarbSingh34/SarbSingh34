@@ -1,17 +1,14 @@
-<h3> Hi 👋, I'm Sarb </h3>
+<h3> Hi there,  I'm Sarb 👋 </h3>
 <h1> I'm a Full Stack Developer , who loves to code! </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarbsingh34&label=Profile%20views&color=0e75b6&style=flat" alt="sarbsingh34" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarbsingh34" alt="sarbsingh34" /></a> </p>
+- 🔭 I’m currently learning React ,Javascript Nodejs and Firebase.
 
-- 🔭 I’m currently working on **Improving mistakes**
+- 🌱 I’m  looking to collbaoration with other passionate developers  
 
-- 🌱 I’m currently learning **Javascript**
+- 📫 2022 Goals -  Master MERN Stack , Contribute to Immersive Tech 
 
-- 📫 How to reach me **mrsinghbusiness05@gmail.com**
-
-- ⚡ Fun fact **I think i'm best**
+- ⚡ Fun fact I love to try New things...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
