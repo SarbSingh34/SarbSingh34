@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarbsingh34&label=Profile%20views&color=0e75b6&style=flat" alt="sarbsingh34" /> </p>
 
-<p align="left"> <a href="https://twitter.com/22Sarb" target="blank"><img src="https://img.shields.io/twitter/follow/iamsarb_001?logo=twitter&style=for-the-badge" alt="iamsarb_001" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamsarb_001" target="blank"><img src="https://img.shields.io/twitter/follow/iamsarb_001?logo=twitter&style=for-the-badge" alt="iamsarb_001" /></a> </p>
 
 - 💬 Ask me about **React,JS,Css**
 
